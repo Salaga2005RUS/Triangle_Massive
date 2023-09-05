@@ -36,7 +36,3 @@ void PrintRows (char *array, int RowsNumber, int sch)
         printf ("%d ", *(array + sch + CollsNumber));
     }
 }
-
-// TODO Codestyle: Pascal Case, Snake Case
-// TODO LEARN ENGLISH BLYAT!!!!
-// TODO Write string funcs
